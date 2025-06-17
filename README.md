@@ -3,9 +3,6 @@
 
 *"Why waste hours writing docs? Let **CodePilot Docs** automate it—while improving your code’s quality!"*  
 
-
-[![GitHub stars](https://img.shields.io/github/stars/bilal-157/Code-Documentation-Generator?style=social)](https://github.com/bilal-157/Code-Documentation-Generator)  
-
 ---
 
 ## **🔥 Why Use This?**  
