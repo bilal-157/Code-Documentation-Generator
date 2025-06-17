@@ -165,10 +165,10 @@ export default function Component() {
         <div className="text-center space-y-4">
           <div className="inline-flex items-center gap-3 px-6 py-3 bg-gradient-to-r from-blue-600 to-purple-600 rounded-full text-white shadow-lg">
             <Code className="h-6 w-6" />
-            <h1 className="text-2xl font-bold">Python Code Documentation Generator</h1>
+            <h1 className="text-2xl font-bold"> Code Documentation Generator</h1>
           </div>
           <p className="text-gray-600 max-w-2xl mx-auto">
-            Transform your Python code into comprehensive documentation with AI-powered analysis, complexity evaluation,
+            Transform your code into comprehensive documentation with AI-powered analysis, complexity evaluation,
             and optimization suggestions.
           </p>
         </div>
